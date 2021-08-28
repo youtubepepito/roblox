@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("abonne toi a ma chaine fdp")
